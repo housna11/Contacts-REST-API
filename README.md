@@ -65,3 +65,7 @@ Il permet de comprendre comment fonctionnent les **emails côté serveur**, les 
 
 - **Postman** pour tester tous les endpoints  
 - **Mailtrap / Gmail** pour visualiser les emails
+
+## 👩‍💻 Réalisé par
+
+**HOUSNA FATHI** - Developpeuse web full-stack
