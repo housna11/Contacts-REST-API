@@ -1,11 +1,13 @@
 # 📧 Contact – API de gestion des contacts avec email
 
+
 ## 📌 Présentation du projet
 
 **API Contact** est une API REST développée avec **Laravel** permettant de gérer des contacts et d’envoyer des emails automatiquement.  
 Le projet est testé exclusivement via **Postman**.  
 Il permet de comprendre comment fonctionnent les **emails côté serveur**, les **API REST**, et la **communication backend**.
 
+---
 
 ## 🎯 Objectifs
 
@@ -14,6 +16,7 @@ Il permet de comprendre comment fonctionnent les **emails côté serveur**, les 
 - Permettre la recherche et le filtrage par nom ou email  
 - Développer une API REST sécurisée et fonctionnelle
 
+---
 
 ## 👥 Public cible
 
@@ -28,6 +31,7 @@ Il permet de comprendre comment fonctionnent les **emails côté serveur**, les 
 - Gérer tous les contacts  
 - Envoyer un email manuel à un contact
 
+---
 
 ## ⚙️ Fonctionnalités principales
 
@@ -35,6 +39,8 @@ Il permet de comprendre comment fonctionnent les **emails côté serveur**, les 
 
 - Inscription / Connexion (si nécessaire pour admin)  
 - Sécurisation via tokens (**Laravel Sanctum**)
+
+---
 
 ### 👤 Gestion des contacts
 
@@ -44,6 +50,8 @@ Il permet de comprendre comment fonctionnent les **emails côté serveur**, les 
 - Lister tous les contacts  
 - Rechercher par nom ou email
 
+---
+
 ### ✉️ Email
 
 - Envoi automatique lors de l’ajout d’un contact  
@@ -51,6 +59,8 @@ Il permet de comprendre comment fonctionnent les **emails côté serveur**, les 
 - Configuration via SMTP (Gmail ou Mailtrap)
 
 ## 🧱 Architecture technique
+
+---
 
 ### Backend (API)
 
@@ -68,4 +78,4 @@ Il permet de comprendre comment fonctionnent les **emails côté serveur**, les 
 
 ## 👩‍💻 Réalisé par
 
-**HOUSNA FATHI** - Developpeuse web full-stack
+**HOUSNA FATHI** - Développeuse web full-stack
